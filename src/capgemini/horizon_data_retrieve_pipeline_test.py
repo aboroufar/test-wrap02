@@ -4,7 +4,7 @@ import os
 import hydra
 from omegaconf import DictConfig
 
-from src.capgemini.horizon_data_retrieve_handler import (
+from src.capgemini.use_cases.horizon_data_retrieve_handler import (
     DataRetrieveHandler,
     HorizonManager,
 )
