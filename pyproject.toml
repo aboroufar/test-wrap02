@@ -47,10 +47,10 @@ testpaths = ["tests"]
 
 
 
-[tool.coverage.run]
-branch = true
-source = ["src/capgemini"]
-command_line = "-m pytest"
+#[tool.coverage.run]
+#branch = true
+#source = ["src/capgemini"]
+#command_line = "-m pytest"
 
 
 [tool.poetry]
