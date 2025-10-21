@@ -1,0 +1,8 @@
+TASK:
+    image: registry.cloud.sky/ndss-broadband/python3.12:latest
+    tags:
+      - docker
+    script:
+      - pip install poetry
+      - poetry lock
+      - source .venv/bin/activate

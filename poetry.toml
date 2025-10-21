@@ -1,0 +1,5 @@
+[certificates.ndss_repo]
+cert=false
+
+[virtualenvs]
+in-project = true

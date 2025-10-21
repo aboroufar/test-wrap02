@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier.
+_commit: v1.0.7
+_src_path: gitlab@git.bskyb.com:plannet-users-team/wrapster_project_template.git
+author_email: amir@sky.com
+author_fullname: Amir Boroufar
+git_platform: github.com
+license: Apachev2
+package_short_description: sky
+project_name: capgemini
+python_version: '3.10'
+ssh_private_key: ~/.ssh/id_ed25519
+version: 0.1.0
