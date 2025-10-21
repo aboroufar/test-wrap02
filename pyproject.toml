@@ -37,9 +37,9 @@ dev = [
     "pytest-cov",
 ]
 
-[project.urls]
-Repository = ""
-Issues = "/issues"
+#[project.urls]
+#Repository = ""
+#Issues = "/issues"
 
 
 [tool.pytest.ini_options]
